@@ -1,0 +1,102 @@
+{
+    "code": 200,
+    "type": "success",
+    "message": "OK",
+    "listResponse": {
+        "size": 2,
+        "page": 0,
+        "limit": 100,
+        "total": 30,
+        "list": [
+            {
+                "id": "1",
+                "name": "Collection BCWF",
+                "thumbnailUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                "productCount": 0,
+                "appId": "app_JVQP",
+                "updated": "2020-04-22T15:35:57.413Z",
+                "created": "2020-04-22T15:35:57.413Z",
+                "media": [
+                    {
+                        "thumbnail": true,
+                        "featured": true,
+                        "sortNumber": 0,
+                        "fileName": "personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                        "mediaTitle": "Collection samples",
+                        "contentType": "image/jpg",
+                        "publicFileKey": "BYAG",
+                        "publicFileUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg"
+                    }
+                ],
+                "textScore": 0,
+                "featuredCollection": true
+            },
+            {
+                "id": "5ea0645d6dfcaf373390c1e6",
+                "name": "Collection HDOC",
+                "thumbnailUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                "productCount": 0,
+                "appId": "app_JVQP",
+                "updated": "2020-04-22T15:35:57.415Z",
+                "created": "2020-04-22T15:35:57.415Z",
+                "media": [
+                    {
+                        "thumbnail": true,
+                        "featured": true,
+                        "sortNumber": 0,
+                        "fileName": "personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                        "mediaTitle": "Collection samples",
+                        "contentType": "image/jpg",
+                        "publicFileKey": "BOOU",
+                        "publicFileUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg"
+                    }
+                ],
+                "textScore": 0,
+                "featuredCollection": false
+            },
+            {
+                "id": "5ea0645d6dfcaf373390c1e7",
+                "name": "Collection ZCXC",
+                "thumbnailUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                "productCount": 0,
+                "appId": "app_JVQP",
+                "updated": "2020-04-22T15:35:57.416Z",
+                "created": "2020-04-22T15:35:57.416Z",
+                "media": [
+                    {
+                        "thumbnail": true,
+                        "featured": true,
+                        "sortNumber": 0,
+                        "fileName": "personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                        "mediaTitle": "Collection samples",
+                        "contentType": "image/jpg",
+                        "publicFileKey": "EYWN",
+                        "publicFileUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg"
+                    },
+                    {
+                        "thumbnail": false,
+                        "featured": true,
+                        "sortNumber": 0,
+                        "fileName": "personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                        "mediaTitle": "Collection samples",
+                        "contentType": "image/jpg",
+                        "publicFileKey": "EYWN",
+                        "publicFileUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg"
+                    },
+                    {
+                        "thumbnail": false,
+                        "featured": true,
+                        "sortNumber": 0,
+                        "fileName": "personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg",
+                        "mediaTitle": "Collection samples",
+                        "contentType": "image/jpg",
+                        "publicFileKey": "EYWN",
+                        "publicFileUrl": "https://dogmilk-designmilk.netdna-ssl.com/images/2014/04/personalized_monogrammed_dog_beds_bowls_collars_Mark_and_Graham_02.jpg"
+                    }
+                ],
+                "textScore": 0,
+                "featuredCollection": true
+            }
+        ]
+    }
+}
